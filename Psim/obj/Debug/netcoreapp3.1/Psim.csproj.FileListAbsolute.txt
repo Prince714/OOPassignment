@@ -1,0 +1,13 @@
+C:\Users\PRINCE\source\repos\Psim\bin\Debug\netcoreapp3.1\Psim.exe
+C:\Users\PRINCE\source\repos\Psim\bin\Debug\netcoreapp3.1\Psim.deps.json
+C:\Users\PRINCE\source\repos\Psim\bin\Debug\netcoreapp3.1\Psim.runtimeconfig.json
+C:\Users\PRINCE\source\repos\Psim\bin\Debug\netcoreapp3.1\Psim.runtimeconfig.dev.json
+C:\Users\PRINCE\source\repos\Psim\bin\Debug\netcoreapp3.1\Psim.dll
+C:\Users\PRINCE\source\repos\Psim\bin\Debug\netcoreapp3.1\Psim.pdb
+C:\Users\PRINCE\source\repos\Psim\obj\Debug\netcoreapp3.1\Psim.csprojAssemblyReference.cache
+C:\Users\PRINCE\source\repos\Psim\obj\Debug\netcoreapp3.1\Psim.AssemblyInfoInputs.cache
+C:\Users\PRINCE\source\repos\Psim\obj\Debug\netcoreapp3.1\Psim.AssemblyInfo.cs
+C:\Users\PRINCE\source\repos\Psim\obj\Debug\netcoreapp3.1\Psim.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\source\repos\Psim\obj\Debug\netcoreapp3.1\Psim.dll
+C:\Users\PRINCE\source\repos\Psim\obj\Debug\netcoreapp3.1\Psim.pdb
+C:\Users\PRINCE\source\repos\Psim\obj\Debug\netcoreapp3.1\Psim.genruntimeconfig.cache
