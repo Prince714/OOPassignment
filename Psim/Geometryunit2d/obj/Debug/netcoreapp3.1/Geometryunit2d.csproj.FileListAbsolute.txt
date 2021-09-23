@@ -1,0 +1,4 @@
+C:\Users\PRINCE\source\repos\Geometryunit2d\obj\Debug\netcoreapp3.1\Geometryunit2d.csprojAssemblyReference.cache
+C:\Users\PRINCE\source\repos\Geometryunit2d\obj\Debug\netcoreapp3.1\Geometryunit2d.AssemblyInfoInputs.cache
+C:\Users\PRINCE\source\repos\Geometryunit2d\obj\Debug\netcoreapp3.1\Geometryunit2d.AssemblyInfo.cs
+C:\Users\PRINCE\source\repos\Geometryunit2d\obj\Debug\netcoreapp3.1\Geometryunit2d.csproj.CoreCompileInputs.cache

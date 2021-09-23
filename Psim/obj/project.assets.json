@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRINCE\\source\\repos\\Psim\\Psim.csproj",
+      "projectUniqueName": "C:\\Users\\PRINCE\\Desktop\\OOPassignments\\OOPassignment\\Psim\\Psim.csproj",
       "projectName": "Psim",
-      "projectPath": "C:\\Users\\PRINCE\\source\\repos\\Psim\\Psim.csproj",
+      "projectPath": "C:\\Users\\PRINCE\\Desktop\\OOPassignments\\OOPassignment\\Psim\\Psim.csproj",
       "packagesPath": "C:\\Users\\PRINCE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRINCE\\source\\repos\\Psim\\obj\\",
+      "outputPath": "C:\\Users\\PRINCE\\Desktop\\OOPassignments\\OOPassignment\\Psim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
