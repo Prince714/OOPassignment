@@ -48,6 +48,7 @@ namespace Psim.Particles
 		/// <param name="py">The y coordinate</param>
 		public void SetCoords(double? px, double? py)
 		{
+			position.SetCoords(px, py);
 			// Implementation here
 			throw new NotImplementedException();
 		}
@@ -58,6 +59,7 @@ namespace Psim.Particles
 		/// <param name="py">The y coordinate</param>
 		public void GetCoords(out double px, out double py)
 		{
+			position.GetCoords(out px, out py);
 			// Implementation here
 			throw new NotImplementedException();
 		}
@@ -69,6 +71,8 @@ namespace Psim.Particles
 		/// <exception cref="ArgumentOutOfRangeException">Throws if the x or y component is > 1 or < -1."</exception>
 		public void SetDirection(double dx, double dy)
 		{
+
+			direction.Set(dx, dy);
 			// Implementation here
 			throw new NotImplementedException();
 		}
@@ -79,6 +83,9 @@ namespace Psim.Particles
 		/// <param name="dy">The y coordinate</param>
 		public void GetDirection(out double dx, out double dy)
 		{
+			dx = Direction.DX;
+			dy = Direction.DY;
+			direction.Set(dx, dy);
 			// Implementation here
 			throw new NotImplementedException();
 		}
